@@ -1,4 +1,4 @@
-# GitHub Copilot Plugin for JetBrains IDEs
+exn# GitHub Copilot Plugin for JetBrains IDEs
 
 [GitHub Copilot Plugin for JetBrains IDEs](https://plugins.jetbrains.com/plugin/17718-github-copilot) is your AI-powered coding assistant, designed to enhance your development experience. Leveraging advanced language models, it provides intelligent code completions and chat-based assistance directly within your JetBrains IDEs.
 
